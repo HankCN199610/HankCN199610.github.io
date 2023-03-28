@@ -6,10 +6,12 @@ body {
 header {
     background-color: #eee;
     padding: 20px;
+    text-align: center; /* 修改文本居中对齐 */
 }
 
 h1 {
     margin: 0;
+    font-size: 36px; /* 修改字体大小 */
 }
 
 nav ul {
